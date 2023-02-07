@@ -23,13 +23,13 @@ class Data:
 
     # Rest Buttons
     buttons = [
-       [InlineKeyboardButton("👨‍💻", url="https://t.me/itz_legend_coder"),
+       [InlineKeyboardButton("👨‍💻", url="https://t.me/mafiaboys4"),
         InlineKeyboardButton("🎪", callback_data="about"),
-        InlineKeyboardButton("🛡", url="https://t.me/mastermind_network_official"),
-        InlineKeyboardButton("🎉", url="https://t.me/mr_sukkun")],
+        InlineKeyboardButton("🛡", url="https://t.me/one_time_creater"),
+        InlineKeyboardButton("🎉", url="https://t.me/mafiaboys4")],
 [
     InlineKeyboardButton("⚡ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ⚡", callback_data="help"),
-    InlineKeyboardButton("🎪sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/worldwide_friend_zone")
+    InlineKeyboardButton("🎪sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/one_time_creator")
     ],
     [
     InlineKeyboardButton("➕ᴀᴅᴅ ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ ʙᴏᴛ➕",url="https://t.me/groupcontrollertgbot?startgroup=true")],
@@ -66,9 +66,9 @@ class Data:
 
 ʟᴀɴɢᴜᴀɢᴇ : [ᴘʏᴛʜᴏɴ](www.python.org)
 
-ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @itz_legend_coder
+ᴅᴇᴠᴇʟᴏᴘᴇʀ :  @mafiaboys4
 
-ᴜᴘᴅᴀᴛᴇ   : @Mr_sukkun
+ᴜᴘᴅᴀᴛᴇ   : @mafiaboys4
 
-ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/Noob-mukesh/ForceSubsribeBot)
+ʀᴇᴘᴏ      :[ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ ](https://github.com/Ayushkumarsingh9/ForceSubsribeBot)
     """
